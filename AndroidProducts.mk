@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_odin.mk
+    $(LOCAL_DIR)/liquid.mk

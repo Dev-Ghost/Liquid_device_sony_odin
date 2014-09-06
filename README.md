@@ -1,2 +1,2 @@
-android_device_sony_odin
+LiquidSmooth device tree for Xperia ZL (odin)
 ========================
